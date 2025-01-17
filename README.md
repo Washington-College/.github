@@ -1,1 +1,1 @@
-# .github
+Welcome to the Washington College Github Organization. This is the home for all Washington College Github Classrooms and Labs! If you have any questions or need support, email Dylan Poulsen at dpoulsen2@washcoll.edu
